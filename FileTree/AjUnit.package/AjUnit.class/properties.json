@@ -1,0 +1,14 @@
+{
+	"category" : "AjUnit",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "AjUnit",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

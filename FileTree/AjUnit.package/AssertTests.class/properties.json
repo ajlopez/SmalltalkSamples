@@ -1,0 +1,14 @@
+{
+	"category" : "AjUnit-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "AssertTests",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
