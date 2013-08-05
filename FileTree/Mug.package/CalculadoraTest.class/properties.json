@@ -1,0 +1,14 @@
+{
+	"category" : "Mug",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CalculadoraTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

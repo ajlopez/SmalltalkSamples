@@ -1,0 +1,14 @@
+{
+	"category" : "Mug",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Calculadora",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
